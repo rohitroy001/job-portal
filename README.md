@@ -66,26 +66,6 @@ job-portal/
 
 ---
 
-## 🔑 How to Run This Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/bhavinvagh/job-portal.git
-   cd job-portal
-   ```
-
-2. **Set up the .ENV File**  
-   
-
-3. **Run the project**  
-   frontend:-
-    npm run dev
-
-  backend:-
-    npm start
-
-
-
 ## 🎯 Use Cases
 
 - Job seekers can find and apply to relevant jobs.
@@ -121,28 +101,3 @@ The admin panel includes platform-wide statistics like:
 - Total job applications submitted
 
 ---
-
-## 📢 Contributing
-
-If you'd like to contribute to this job portal project, feel free to fork the repo and submit a pull request!
-
----
-
-## 📃 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 📞 Contact
-
-For feedback, issues, or collaboration requests, reach out via [mr.vaghbhavin693.com] or open an issue.
-
----
-
-> 🔍 **Tags**: `job portal`, `job application platform`, `job seeker`, `recruiter`, `admin dashboard`, `java project`, `job listing web app`, `student project`, `career portal`
-```
-
----
-
-Would you like help customizing this further based on the technologies you used (e.g., Java framework, DB, frontend stack)?
